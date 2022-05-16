@@ -3,6 +3,8 @@
     index<br>
     <!-- router-linkっぽいの -->
     <NuxtLink to="/about">about</NuxtLink>
+    <NuxtLogo />
+    <BaseHeader />
   </div>
 </template>
 
